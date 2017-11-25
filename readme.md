@@ -33,7 +33,7 @@ URL : http://localhost/rest-api-test/api/users
 ```
 URL : http://localhost/rest-api-test/api/users/5a0e4b82078f471ae05dd33f
 ```
-3. Get All Users
+3. Full text search by name
 ```
 Example Params: key=name / value=Susana
 URL : http://localhost/rest-api-test/api/users?name=Susana
