@@ -14,7 +14,7 @@ set the APP_URL in .env file (e.g)
 APP_URL=http://localhost:8000
 ```
 
-Open an terminal window and copy paste the following command
+Open terminal window and copy paste the following command
 
 ```
 php artisan serve
