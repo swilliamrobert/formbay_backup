@@ -1,4 +1,4 @@
-## Rest API - FormBay
+## FormBay - API
 
 Please follow the guide.
 
@@ -22,18 +22,18 @@ php artisan serve
 
 Use postman or browser to call the below API
 ```
-URL : http://localhost/rest-api-test/api/users
+URL : http://localhost/formbay/api/users
 ```
 
 1. Get All Users
 ```
-URL : http://localhost/rest-api-test/api/users
+URL : http://localhost/formbay/api/users
 ```
 2. Get users by ID
 ```
-URL : http://localhost/rest-api-test/api/users/5a0e4b82078f471ae05dd33f
+URL : http://localhost/formbay/api/users/5a0e4b82078f471ae05dd33f
 ```
 3. Full text search by name
 ```
 Example Params: key=name / value=Susana
-URL : http://localhost/rest-api-test/api/users?name=Susana
+URL : http://localhost/formbay/api/users?name=Susana
